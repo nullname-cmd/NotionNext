@@ -86,12 +86,12 @@ function GreetingsWords() {
 }
 
 /**
- * 了解更多按鈕
+ * 了解更多按鈕(跳转到时间轴页面)
  * @returns
  */
 function MoreButton() {
   return (
-    <Link href='/about'>
+    <Link href='/about'> 
       <div
         className={
           'group bg-indigo-400 dark:bg-yellow-500 hover:bg-white dark:hover:bg-black hover:text-black dark:hover:text-white flex items-center transition-colors duration-200 py-2 px-3 rounded-full space-x-1'
