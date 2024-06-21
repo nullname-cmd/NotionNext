@@ -86,12 +86,12 @@ function GreetingsWords() {
 }
 
 /**
- * 了解更多按鈕(跳转到时间轴页面)
+ * 了解更多按鈕(跳转 哔哩哔哩bilbil)
  * @returns
  */
 function MoreButton() {
   return (
-    <Link href='/about'> 
+    <Link href='https://www.bilibili.com/'> 
       <div
         className={
           'group bg-indigo-400 dark:bg-yellow-500 hover:bg-white dark:hover:bg-black hover:text-black dark:hover:text-white flex items-center transition-colors duration-200 py-2 px-3 rounded-full space-x-1'
@@ -101,7 +101,7 @@ function MoreButton() {
             'group-hover:stroke-black dark:group-hover:stroke-white w-6 h-6 transition-all duration-100'
           }
         />
-        <div className='font-bold'>了解更多</div>
+        <div className='font-bold'>哔哩哔哩bilbil</div>
       </div>
     </Link>
   )
