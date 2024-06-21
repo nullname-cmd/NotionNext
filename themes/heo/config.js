@@ -40,7 +40,7 @@ const CONFIG = {
     '🤝 我是VPainter',
     '🏠 欢迎来到我的博客'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 底部GitHub按钮链接
+  HEO_INFO_CARD_URL: 'https://www.youtube.com/', // 底部Youtube按钮链接
 
   // 英雄区左侧用户技能图标
   HEO_GROUP_ICONS: [
