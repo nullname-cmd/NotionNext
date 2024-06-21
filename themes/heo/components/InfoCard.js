@@ -44,9 +44,9 @@ export function InfoCard(props) {
 
       <div className='flex justify-between'>
         <div className='flex space-x-3  hover:text-black dark:hover:text-white'>
-          {/* 两个社交按钮 微信/Youtube*/}
+          {/* 两个社交按钮 微信(跳转关于我)/Youtube*/}
           <div className='bg-indigo-400 p-2 rounded-full w-10 items-center flex justify-center transition-colors duration-200 dark:bg-yellow-500 dark:hover:bg-black hover:bg-white'>
-            <Link href='/about'>
+            <Link href='/https://www.vpainter.store/article/974f9c53-35c2-4a52-a6fb-b8a22129327e'>
               <i className='fa-brands fa-weixin' />
             </Link>
           </div>
