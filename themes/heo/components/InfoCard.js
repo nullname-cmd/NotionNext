@@ -101,7 +101,7 @@ function MoreButton() {
             'group-hover:stroke-black dark:group-hover:stroke-white w-6 h-6 transition-all duration-100'
           }
         />
-        <div className='font-bold'>哔哩哔哩bilbil</div>
+        <div className='font-bold'>bilbil</div>
       </div>
     </Link>
   )
