@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与设计思维',
   HEO_HERO_TITLE_3: 'VPAINTER.STORE',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '2024_最新商业产品设计案例合集',
+  HEO_HERO_TITLE_5: '2024_最新商业设计案例合集',
   HEO_HERO_TITLE_LINK: 'https://vpainter.store',
 
   // 英雄区显示三个置顶分类
