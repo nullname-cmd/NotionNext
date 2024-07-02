@@ -23,9 +23,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://vpainter.store',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/article/61771dac-4593-4135-b3a9-619ad46462d0' },
+  HEO_HERO_CATEGORY_2: { title: '热点资讯', url: '/article/928dfaf5-2455-43dc-a59a-99eb41153b49' },
+  HEO_HERO_CATEGORY_3: { title: '经济要闻', url: '/article/d5ed46c9-8900-4580-9724-df43ee9c6544' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章 ['2023年画册','2024年画册']
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
