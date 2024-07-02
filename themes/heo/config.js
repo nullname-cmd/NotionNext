@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://vpainter.store'}, //跳转到付费区 url: 'https://vpainter.store'
-    { title: '我们乐于和您分享创意与知识，感谢您的支持💗' , url: 'https://vpainter.store'} //跳转到付费区 url: 'https://vpainter.store'
+    { title: '欢迎来到我的博客', url: 'https://www.vpainter.store/article/71dfec58-5dca-4b16-b18d-be09815b0665'}, //跳转到设计服务区（暂无） url: 'https://www.vpainter.store/article/71dfec58-5dca-4b16-b18d-be09815b0665'
+    { title: '我们乐于和您分享创意与知识，感谢您的支持💗' , url: 'https://www.vpainter.store/article/71dfec58-5dca-4b16-b18d-be09815b0665'} //跳转到付费区 url: 'https://www.vpainter.store/article/71dfec58-5dca-4b16-b18d-be09815b0665'
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'VPAINTER.STORE',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '2024_最新商业设计案例合集',
-  HEO_HERO_TITLE_LINK: 'https://vpainter.store',
+  HEO_HERO_TITLE_LINK: 'https://www.vpainter.store/article/71dfec58-5dca-4b16-b18d-be09815b0665',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/article/61771dac-4593-4135-b3a9-619ad46462d0' },
@@ -106,7 +106,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  //跳转到专属客群（微信、QQ群、联系我页面url）
+  //跳转到专属客群（微信、QQ群、联系我页面url）[暂无]
   HEO_SOCIAL_CARD_URL: 'https://vpainter.store',
 
   // *****  以下配置无效，只是预留开发 ****
